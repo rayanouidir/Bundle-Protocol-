@@ -1,4 +1,4 @@
-# 🛰️ Simulateur du Bundle Protocol (DTN)
+# Simulateur du Bundle Protocol (DTN)
 
 Simulation à événements discrets d'un réseau **DTN (Delay/Disruption Tolerant
 Networking)** implémentant le **Bundle Protocol**, un protocole conçu pour les
@@ -73,6 +73,3 @@ celui à tester.
 
 ---
 
-*Projet portfolio — simulation réseau développée en Python.*
-# Bundle-Protocol-
-# Bundle-Protocol-
